@@ -22,7 +22,7 @@ public class CameraController : MonoBehaviour {
 
 	void Update () {
 		// Get input.
-		float input = Input.GetAxisRaw("Horizontal");
+		float input = Input.GetAxis("Horizontal");
 
 		// Update angle.
 		angle += input * Time.deltaTime * turnSpeed;
