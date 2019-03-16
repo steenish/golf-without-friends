@@ -1,3 +1,3 @@
-# golf-without-friends
+# Golf Without Friends
 
-Link to [repo](https://gits-15.sys.kth.se/astee/golf-without-friends).
+This is a project completed as a group of two people for the project part of the course DD1354 Models and simulation at the Swedish Royal Institute of Technology, KTH.
